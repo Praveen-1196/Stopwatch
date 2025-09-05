@@ -1,0 +1,42 @@
+body{
+    margin-left: 43%;
+    margin-top: 10%;
+    background-color:burlywood;
+}
+#start{
+    background-color: blue;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+#stop{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+#Reset{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+h2{
+    margin-left: 12%;
+}
+button{
+    padding: 5px;
+}
+#box{
+    width: 120px;
+    height: 70px;
+    padding: 10px 20px;
+    border: 2px solid #333;
+    border-radius: 8px;
+    background-color:burlywood;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+h1{
+    margin-right: 20%;
+}
